@@ -12,7 +12,13 @@ public class decisionmaker
 				
 				String[] choice = new String [howmany];
 				
-
+				System.out.println("Key the things you want me to pick");
+				Scanner userInput2 = new Scanner(System.in);
+				int things = userInput2.nextInt();
+				
+				
+				
+				
 			}
 
 	}
